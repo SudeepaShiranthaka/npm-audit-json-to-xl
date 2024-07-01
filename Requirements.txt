@@ -1,0 +1,8 @@
+Requirements:
+pip install pandas openpyxl
+
+Usage: 
+npm audit --json
+npm audit
+
+python .\a.py
